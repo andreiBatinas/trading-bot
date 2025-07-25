@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "streetsidesoftware.code-spell-checker",
+    "mike-co.import-sorter",
+    "wayou.vscode-todo-highlight",
+    "kakumei.ts-debug"
+  ]
+}
